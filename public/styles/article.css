@@ -1,0 +1,22 @@
+.panel-info{
+    padding: 10px;
+    cursor: pointer;
+}
+.text-white{
+    color: white;
+}
+.text-white:hover{
+    color:red;
+}
+.media-body{
+    border: 3px solid white;
+}
+.panel-heading{
+    font-size: 20px;
+}
+.panel-info{
+    font-size: 18px;
+}
+.panel-footer .btn{
+    font-size: 18px;
+}
